@@ -27,7 +27,7 @@ The goal of this project was to apply fundamental HTML and CSS knowledge to buil
 
 ## 📸 Preview
 
-![Avengers Gallery Screenshot](Avengers App/images/preview.png)
+![Avengers Gallery Screenshot](images/preview.png)
 
 ## 👨‍💻 Author
 
